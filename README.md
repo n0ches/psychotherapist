@@ -6,6 +6,6 @@ The program  interacts with user in simple English language and simulate a conve
 
 The program ignores 14 punctuation marks, which are stored in the array punctuations, such as points, comma, semi comma, single and double quotation marks, question marks, exclamation points, dash and brackets.
  
-char[] punctuations = {., ,, ;, ’,”, ?, !, -, {, }, (, ), [, ]}
+char[] punctuations = {'.', ',', ';', '’', '”', '?', '!', '-', '{', '}', '(', ')', '[', ']'}
 
 Program works well, when the user uses uppercase or lower case letters, or mixes them up.
